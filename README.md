@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html> 
   <title>Fred</title>
     <h1>Github Gurus</h1>
