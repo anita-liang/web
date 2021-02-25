@@ -1,6 +1,15 @@
 html {
-    background-color: #e6e9e9;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #ccffff;
+        font-family: Courier New, Lucida Console, Monaco;
+} 
+h1 { 
+    color: pink;
+    font-style: impact;
+    font size: 40px;
+    border: 5px solid purple;
 }
-
-
+h2 { 
+    color: blue 
+        font-famfily: serif;
+}
+h3 { 
